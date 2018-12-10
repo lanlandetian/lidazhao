@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="L.wsddbook08:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ddbookmarket.war">
+      <element id="artifact" artifact-name="L.wsddbook08:war exploded" />
+    </root>
+  </artifact>
+</component>
