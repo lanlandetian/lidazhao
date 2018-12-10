@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ddbook08:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ddbookmarket.war">
+      <element id="artifact" artifact-name="ddbook08:war exploded" />
+    </root>
+  </artifact>
+</component>
